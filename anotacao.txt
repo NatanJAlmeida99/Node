@@ -1,0 +1,8 @@
+Métodos HTTP
+
+GET, POST, PUT, PATCH, DELETE
+GET => Buscar uma recurso
+POST => Criar uma recurso
+PUT => Atualizar um recurso
+PATCH => Atualizar uma informação especifíca de um recurso back-end
+DELETE => Deletar um recurso do back-end
